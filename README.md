@@ -14,10 +14,10 @@ Project Aims in Extracting the top 50 globaly played songs in spotify Applicatio
 ## Technology used.
   - Programming Language- Python
   - Amazon web Service(AWS) 
-    -- Lambda( Lambda code, Lambda Test, Lambda Layer, Lambda Trigger) 
-    -- S3 (Simple Storage System)
-    -- Glue Crawler
-    -- Athena
+    - Lambda( Lambda code, Lambda Test, Lambda Layer, Lambda Trigger) 
+    - S3 (Simple Storage System)
+    - Glue Crawler
+    - Athena
      
 ## Dataset/API
   Spotify API- https://developer.spotify.com/documentation/web-api
