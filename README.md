@@ -12,9 +12,9 @@ Project Aims in Extracting the top 50 globaly played songs in spotify Applicatio
   6. Building Analytics table on top of the semantic data with help of AWS Glue and AWS Athena.
      
 ## Technology used.
-  Programming Language- Python
-  Amazon web Service(AWS)
-     1.Lambda( Lambda code, Lambda Test, Lambda Layer, Lambda Trigger)
+  Programming Language- Python /n
+  Amazon web Service(AWS) /n
+     1.Lambda( Lambda code, Lambda Test, Lambda Layer, Lambda Trigger) /n
      2. S3 (Simple Storage System)
      3. Glue Crawler
      4. Athena
