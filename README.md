@@ -23,8 +23,8 @@ Project Aims in Extracting the top 50 globaly played songs in spotify Applicatio
   Spotify API- https://developer.spotify.com/documentation/web-api
   
 ## Packages
-  1.Pandas
-  2.Spotipy
+  - Pandas
+  - Spotipy
     
  
 
