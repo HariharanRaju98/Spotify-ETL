@@ -1,7 +1,7 @@
 # Spotify-ETL Pipeline
 
 ## Introduction
-Project Aims in Extracting the top 50 globaly played songs in spotify Application through Spotipy Api and transform it in AWS Lambda Environment to desired format and load it to AWS S3.
+Project Aims in Extracting the top 50 globally played songs in Spotify Application through Spotipy API and transform it in AWS Lambda Environment to desired format and load it to AWS S3.
 
 ## Project Flow
   1. Integrating Spotify API amd extracting the data with Python.
